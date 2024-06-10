@@ -1,4 +1,4 @@
 # proyecto-ejemplo
 ## Editando el archivo
 
-Este es mi segundo archivo
+Este es mi primer archivo
